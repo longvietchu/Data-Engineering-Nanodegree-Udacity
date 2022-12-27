@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+.ipynb_checkpoints
+
+# data files and folders
+data
+event_data
+*.csv
